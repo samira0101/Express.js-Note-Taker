@@ -69,3 +69,16 @@ const renderActiveNote = () => {
     noteText.value = '';
   }
 };
+
+// save note
+const handleNoteSave = () => {
+  const newNote = {
+    title: noteTitle.value,
+    text: noteText.value,
+  };
+  saveNote(newNote).then(() => {
+    getAndRenderNotes();
+    renderActiveNote();
+  });
+};
+
