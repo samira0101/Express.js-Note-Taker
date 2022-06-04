@@ -61,7 +61,7 @@ All requirements above has been achieved.
 
 To access Application deployed at Heroku
 
-2. 
+2. https://thawing-brushlands-34282.herokuapp.com/
 
 # Screenshots displaying homepage and saved notes of the application
 
@@ -79,3 +79,5 @@ To access Application deployed at Heroku
 6. https://expressjs.com/en/guide/routing.html
 7. https://birmingham.bootcampcontent.com/university-of-birmingham/UBHM-VIRT-FSF-PT-11-2021-U-LOL
 8. https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
+9. https://www.w3schools.com/jsref/event_stoppropagation.asp
+10. https://attacomsian.com/blog/javascript-hide-show-dom-elements
